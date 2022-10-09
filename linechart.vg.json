@@ -1,6 +1,8 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": "Prevalence of Schizophrenia Worldwide Over Time",
+	"width": 400,
+    "height": 300,
     "data": {"url": "https://raw.githubusercontent.com/etra0014/FIT3179/main/WHO%20prevalence.csv"},
 	"params": [
 		{
